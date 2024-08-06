@@ -1,1 +1,2 @@
 # PRODIGY_CS_04
+A keylogger is a program that records every keystroke made on a computer. These programs can be used for various purposes, such as monitoring computer activity, recovering lost data, and testing software. However, it is crucial to emphasize that the use of keyloggers must always comply with ethical guidelines and legal requirements. Unauthorized use of keyloggers can lead to serious legal consequences and privacy violations.
